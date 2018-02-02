@@ -1,4 +1,4 @@
---- 基础知识---
+---基础知识---
 ## Linux相关知识
 ### linux基础知识
 阅读[Linux教程-W3Cscholl版](https://www.w3cschool.cn/linux/)， 掌握如下知识：
