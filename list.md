@@ -2,7 +2,7 @@
 
 ### Linux相关知识
 #### linux基础知识
-阅读[Linux教程-W3Cscholl版](https://www.w3cschool.cn/linux/)， 掌握如下知识：
+阅读[Linux教程-W3Cschool版](https://www.w3cschool.cn/linux/)， 掌握如下知识：
 - Linux系统的安装、文件目录结构
 - 学会使用vim编辑文档
 - 掌握linux常用的命令,如: ls, cat, cp, mv, rm, ssh, scp, df, grep, cd, mkdir, pwd, useradd, passwd, kill, top, tar, gzip, chown, chmod等
@@ -15,7 +15,7 @@
 
 ### 编程基础
 
-学习[python入门-W3Cscholl版](https://www.w3cschool.cn/python/python-intro.html)的基础知识部分，可以使用python实现简单的业务逻辑。 
+学习[python入门-W3Cschool版](https://www.w3cschool.cn/python/python-intro.html)的基础知识部分，可以使用python实现简单的业务逻辑。 
 
 
 ### ROS相关知识
